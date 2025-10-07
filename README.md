@@ -1,6 +1,5 @@
 # 🌤️ ClimaX: Smart Activity Planner
 
-![ClimaX Banner]([https://via.placeholder.com/800x400.png?text=ClimaX+Smart+Activity+Planner+Demo+GIF](https://github.com/FatemaTaher/Nasa_Smart-_Activity_Planner/blob/main/1.png))
 
 A revolutionary smart activity planner that leverages decades of historical climate data from NASA to predict future weather patterns and generate optimized daily schedules. This project was developed for the **NASA Space Apps Cairo** challenge, showcasing an innovative approach to weather forecasting and AI-driven planning.
 
