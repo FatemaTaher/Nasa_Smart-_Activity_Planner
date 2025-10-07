@@ -12,12 +12,7 @@ A revolutionary smart activity planner that leverages decades of historical clim
 - **📊 Interactive Visualizations:** Displays complex weather trends and data with clear, intuitive charts and graphs.
 - **🌍 Multi-City Support:** Allows users to plan activities in various cities worldwide.
 
-## 👥 The Team
 
-This project was a collaborative effort for the NASA Space Apps Cairo challenge. A huge shout-out to my brilliant teammates who focused on creating an intuitive and polished user experience.
-
-- **[Teammate 1 Name]** ([Teammate 1 LinkedIn Profile](link-to-profile)) - UI/UX Design & Frontend Development
-- **[Teammate 2 Name]** ([Teammate 2 LinkedIn Profile](link-to-profile)) - Frontend Development & Styling
 
 ## 🤖 My Role & Contributions
 
